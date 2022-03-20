@@ -1,0 +1,82 @@
+[
+  {
+    "id":"1",
+    "img": "https://demo-egenslab.b-cdn.net/html/foxture/assets/images/shop/shope-two-prodict-img-1.png",
+    "name": "Pendent light roof",
+    "price": "55.00",
+    "description": "Per ridiculus Penatibus, ullamcorper ipsam erat vitae nobis consequuntur voluptas nascetur, deserunt? Illum ultricies ligula, fermentum. Sagittis Habitasse, do elit odit eos! Laudantium integer",
+    "brand": "RashPlastic",
+    "availability": "In Stock",
+    "reviews": 32
+  },
+  {
+    "id": "2",
+    "img": "https://demo-egenslab.b-cdn.net/html/foxture/assets/images/shop/shope-two-prodict-img-2.png",
+    "name": "G800 Headphone",
+    "price": "34",
+    "description": "ullamcorper ipsam erat vitae nobis consequuntur voluptas nascetur, deserunt? Illum ultricies ligula, fermentum. Sagittis Habitasse, do elit odit eos!",
+    "brand": "Samsung",
+    "availability": "In Stock",
+    "reviews": 56
+  },
+  {
+    "id": "3",
+    "img": "https://demo-egenslab.b-cdn.net/html/foxture/assets/images/shop/shope-two-prodict-img-3.png",
+    "name": "Apple music setup",
+    "price": "55.00",
+    "description": "Penatibus, ullamcorper ipsam erat vitae nobis consequuntur voluptas nascetur, deserunt? Illum ultricies ligula, fermentum. Sagittis Habitasse, do elit odit eos! Laudantium",
+    "brand": "Lenevo",
+    "availability": "In Stock",
+    "reviews": 32
+  },
+  {
+    "id": "4",
+    "img": "https://demo-egenslab.b-cdn.net/html/foxture/assets/images/shop/shope-two-prodict-img-4.png",
+    "name": "Focus Light",
+    "price": "13",
+    "description": "Per ridiculus Penatibus, ullamcorper ipsam erat vitae nobis consequuntur voluptas nascetur, deserunt? Illum ultricies ligula, fermentum. Sagittis Habitasse, do elit odit eos! Laudantium integer",
+    "brand": "Akij",
+    "availability": "In Stock",
+    "reviews": 16
+  },
+  {
+    "id": "5",
+    "img": "https://demo-egenslab.b-cdn.net/html/foxture/assets/images/shop/shope-two-prodict-img-5.png",
+    "name": "Pendent Roof Light",
+    "price": "40.00",
+    "description": "Pidiculus Penatibus, ullamcorper ipsam erat vitae nobis consequuntur voluptas nascetur, deserunt? Illum ultricies ligula, fermentum. Sagittis Habitasse, do elit odit eos! Laudantium intege",
+    "brand": "Data",
+    "availability": "In Stock",
+    "reviews": 43
+  },
+  {
+    "id": "6",
+    "img": "https://demo-egenslab.b-cdn.net/html/foxture/assets/images/shop/shope-two-prodict-img-6.png",
+    "name": "Life saver Watch",
+    "price": "33.00",
+    "description": "diculus Penatibus, ullamcorper ipsam erat vitae nobis consequuntur voluptas nascetur, deserunt? Illum ultricies ligula, fermentum. Sagittis Habitasse, do elit odit eos! Laudant",
+    "brand": "Quartz",
+    "availability": "In Stock",
+    "reviews": 47
+  },
+  {
+    "id": "7",
+    "img": "https://demo-egenslab.b-cdn.net/html/foxture/assets/images/shop/shope-two-prodict-img-7.png",
+    "name": "Camera lens clipart",
+    "price": "40.00",
+    "description": "Penatibus, ullamcorper ipsam erat vitae nobis consequuntur voluptas nascetur, deserunt? Illum ultricies ligula, fermentum. Sagittis Habitasse, do elit odit eos! Laudantium ",
+    "brand": "Navi Force",
+    "availability": "In Stock",
+    "reviews": 21
+  },
+  {
+    "id": "8",
+    "img": "https://demo-egenslab.b-cdn.net/html/foxture/assets/images/shop/shope-two-prodict-img-8.png",
+    "name": "Simple Chair",
+    "price": "20.00",
+    "description": "Per ridiculus Penatibus, ullamcorper ipsam erat vitae nobis consequuntur voluptas nascetur, deserunt? Illum ultricies ligula, fermentum. Sagittis Habitasse, do elit odit eos! Laudantium integer",
+    "brand": "Jamuna",
+    "availability": "In Stock",
+    "reviews": 15
+  }
+]

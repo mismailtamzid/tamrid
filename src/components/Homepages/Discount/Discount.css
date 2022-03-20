@@ -1,0 +1,26 @@
+.card1{
+    background-image: url("./../../../images/discount1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.card2{
+    background-image: url("./../../../images/discount2.png");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card3{
+    background-image: url("./../../../images/discount3.png");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .cardStyle{ height: 300px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(243, 242, 242);
+    margin: 10px;
+padding: 10px;
+} */
